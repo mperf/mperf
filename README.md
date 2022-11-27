@@ -1,6 +1,6 @@
 ### Hi there, I'm Perf 👋
 
-- 🌱 currently IT high school student
+- 🌱 UNIMI Cybersecurity student
 - 💻 CyberSec enthusiast
 - 👽 K1nd4SUS UniMi CTF team member
 - check out [my website!](https://mattiaperfumo.it)
